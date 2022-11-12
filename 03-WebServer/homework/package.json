@@ -1,0 +1,11 @@
+{
+  "name": "03-webserver",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "request": "^2.88.2"
+  }
+}
